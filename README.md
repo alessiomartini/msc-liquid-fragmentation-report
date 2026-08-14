@@ -70,5 +70,5 @@ pdflatex main.tex
 
 ## Related repository
 
-- [`hydrodynamics_2025_msc_course`](https://github.com/alessiomartini/hydrodynamics_2025_msc_course)
+- [`msc-hydrodynamics-homework`](https://github.com/alessiomartini/msc-hydrodynamics-homework)
   — the numerical homework notebooks for the same course.
